@@ -33,6 +33,7 @@
 # fanny (1nov09) - 1.7.6
 # george (21may11) - 1.7.7.1
 # 16 May 2012 - 1.7.7.2
+# lito.1 (19 Sept 2012) - 1.7.7.2-lito.1
 
 
 ifeq ($(wildcard /sbin/md5),/sbin/md5)
